@@ -1,0 +1,5 @@
+{
+  "name": "FitLife Gym Registration",
+  "description": "An intuitive and attractive multi-step registration form for new FitLife gym members, built with React, Formik, and Tailwind CSS. Join FitLife and start your journey to a healthier life!",
+  "requestFramePermissions": []
+}
